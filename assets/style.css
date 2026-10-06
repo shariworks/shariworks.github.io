@@ -13,3 +13,5 @@
 .games article{box-shadow:0 28px 70px rgba(0,0,0,.22)}.abyss{overflow:hidden}.abyss:before,.abyss:after{content:"";position:absolute;border:1px solid rgba(92,229,255,.14);width:330px;height:330px;transform:rotate(45deg)}.abyss:after{width:220px;height:220px}
 .footer-brand{display:flex;align-items:center;gap:14px}.footer-brand small{margin-top:6px}
 @media(max-width:760px){.brand-icon{width:29px;height:29px}.studio-mark{width:84px;height:84px}.hero-in{padding-top:35px}.hero p{font-size:13px}.hero h1{letter-spacing:.035em}}
+
+.contact-links{display:flex;gap:22px;flex-wrap:wrap;align-items:center;margin-top:20px}.contact-links a{display:inline-block;font-size:clamp(16px,2.2vw,26px);font-weight:bold;color:#087da9;text-decoration:none;border-bottom:1px solid #9fc5d8;padding:10px 0}.contact-links a:hover{color:#005f86;border-color:#005f86}
