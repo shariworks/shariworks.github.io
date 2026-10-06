@@ -15,3 +15,5 @@
 @media(max-width:760px){.brand-icon{width:29px;height:29px}.studio-mark{width:84px;height:84px}.hero-in{padding-top:35px}.hero p{font-size:13px}.hero h1{letter-spacing:.035em}}
 
 .contact-links{display:flex;gap:22px;flex-wrap:wrap;align-items:center;margin-top:20px}.contact-links a{display:inline-block;font-size:clamp(16px,2.2vw,26px);font-weight:bold;color:#087da9;text-decoration:none;border-bottom:1px solid #9fc5d8;padding:10px 0}.contact-links a:hover{color:#005f86;border-color:#005f86}
+
+.brand-logo{width:40px;height:40px;object-fit:cover;border-radius:50%;image-rendering:auto;box-shadow:0 0 0 2px rgba(92,229,255,.45)}.hero-logo{display:block;width:clamp(118px,10vw,168px);height:auto;aspect-ratio:1;border-radius:50%;object-fit:cover;margin:0 auto 28px;box-shadow:0 0 0 3px rgba(92,229,255,.75),0 18px 45px rgba(0,0,0,.28)}.footer-brand .brand-logo{width:46px;height:46px}@media(max-width:760px){.brand-logo{width:32px;height:32px}.hero-logo{width:112px}}
